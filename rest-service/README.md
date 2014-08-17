@@ -2,12 +2,12 @@
 ===
 
 参考：
-[Building a RESTful Web Service]
 
+[Building a RESTful Web Service](http://spring.io/guides/gs/rest-service/)
 
 --
 
-[Building a RESTful Web Service](http://spring.io/guides/gs/rest-service/)
+
 
 
 
