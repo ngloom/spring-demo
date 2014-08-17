@@ -20,7 +20,7 @@
     </dependencies>
 
     <properties>
-        <start-class>me.ngloom.spring.GreetingMain</start-class>
+        <start-class>me.ngloom.spring.rest.main.GreetingMain</start-class>
     </properties>
 
     <build>

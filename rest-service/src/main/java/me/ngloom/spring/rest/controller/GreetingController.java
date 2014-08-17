@@ -4,9 +4,11 @@
  * FileName : GreetController.java
  * Copyright (c) 2014, Baidu Inc. All rights reserved.
  */
-package me.ngloom.spring;
+package me.ngloom.spring.rest.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
+
+import me.ngloom.spring.rest.vo.Greeting;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

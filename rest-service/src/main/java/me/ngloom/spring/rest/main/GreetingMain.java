@@ -4,7 +4,7 @@
  * FileName : GreetingMain.java
  * Copyright (c) 2014, Baidu Inc. All rights reserved.
  */
-package me.ngloom.spring;
+package me.ngloom.spring.rest.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
