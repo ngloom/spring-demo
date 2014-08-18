@@ -9,5 +9,6 @@
 	
 	<modules>
 		<module>rest-service</module>
+		<module>schedule</module>
 	</modules>
 </project>
