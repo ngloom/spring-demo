@@ -22,8 +22,9 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan
 @EnableAutoConfiguration
 public class ScheduleMain {
-
+    
     public static void main(String[] args) {
+        // SpringApplication.run(ScheduleTask.class);
         SpringApplication.run(ScheduleMain.class,args);
         
     }
